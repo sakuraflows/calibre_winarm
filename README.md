@@ -1,6 +1,12 @@
 # calibre for Windows on AARM（UNDEV）
 # calibre windows on ARM版本（开发中...）
 
+### 构建向导
+源项目构建向导：[Build instructions](bypy/README.rst) 
+
+#### 准备
+将本仓库克隆至本地：`git clone https://github.com/sakuraflows/calibre_winarm.git`
+
 
 
 
